@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3366/java/example/trunk/oflaDemo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3366/java/example/trunk/oflaDemo/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2932/java/example/trunk/oflaDemo/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3355/java/example/trunk/oflaDemo/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3358/java/example/trunk/oflaDemo/ivysettings.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3251/java/example/trunk/oflaDemo/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3366/java/example/trunk/oflaDemo/build.xml
+END
